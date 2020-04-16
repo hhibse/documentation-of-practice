@@ -1,13 +1,16 @@
-# Emoji Research
+# Sustainable City Research
 
-![Research](research.jpeg)
+https://www.citylab.com/life/2013/04/5-intriguing-sustainable-infrastructure-projects-around-world/5356/
 
-- Date: March 3, 2020
-- Description: Going through materials at the International Emoji Archives
+- April 10th, 2020
+- Looking for aspects of existing sustainable cities that are admired by others for their success. This will help me decide what details to include in my sustainable city.
 
-![Research](research-desktop.png)
+https://www.esf.edu/outreach/gi/documents/Environmental_Finance_Center_Brochure.pdf
 
-- Date: April 5, 2020
-- Description: Screen shot of my research the online Internet Archive and textfiles archive.
+- April 12th, 2020
+- More examples of systems implemented into green infustructure that have been succesful (specifically in gardens which will be easy for me to recreate visually). Also terminology that I should become familiar with.
 
-The first image is taken from my trip to the Internet Archive, it depicts Brewster Kahle, the founder and director of the archive, explaining to the tour group how often the servers (shown on the right) are requested from on a daily basis. My visit to the archive allowed me to interview Internet historians like Jason Scott to get their first hand accounts of how emoticons, the focus of my research, where used in the earliest days of the Internet. The second image is a screen shot of my online research. On the left is Jason Scott's online text-files archive, which includes a large collection of early ASCII art (images created from text characters) which directly inspired my notion to create portraits from emojis. On the right is one of the many research papers i read on how emoji's are used in various online platforms as a means of self expression. 
+https://www.artic.edu/artworks/160015/willow-bridge-and-waterwheel
+
+- April 15th, 2020
+- I decided that insead of printing my images on fabric and hanging them in an installation I would build a folding room divider with six panels and paint my image directly onto the wood. I am going to focus on the proposal for now but I might start the physical project if I can access the materials in time. This is an example of a painted room divider at the Art Institute.
